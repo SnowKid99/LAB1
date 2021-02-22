@@ -16,4 +16,16 @@ print(a+b)
 print(a/b)
 print(a*b)
 
-#zad3
+
+#zad4
+e=5
+a=10
+print(e**a)
+
+#zad5
+imie="VALD"
+nazwisko="POLTAVTSEV"
+print(imie.capitalize())
+print(nazwisko.capitalize())
+
+
